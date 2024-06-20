@@ -30,7 +30,7 @@
 
 #include "Guitar.h"
 #include "FileWvIn.h"
-#include "Noise.h"
+#include "Stk_Noise.h"
 #include "SKINImsg.h"
 #include <cmath>
 

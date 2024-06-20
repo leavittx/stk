@@ -1,3 +1,4 @@
+#if 0
 /***************************************************/
 /*! \class TcpClient
     \brief STK TCP socket client class.
@@ -103,3 +104,5 @@ int TcpClient :: readBuffer( void *buffer, long bufferSize, int flags )
 }
 
 } // stk namespace
+
+#endif

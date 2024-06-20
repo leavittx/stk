@@ -2,7 +2,7 @@
 #define STK_SAMPLER_H
 
 #include "Instrmnt.h"
-#include "ADSR.h"
+#include "Stk_ADSR.h"
 #include "FileLoop.h"
 #include "OnePole.h"
 

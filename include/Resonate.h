@@ -2,9 +2,9 @@
 #define STK_RESONATE_H
 
 #include "Instrmnt.h"
-#include "ADSR.h"
+#include "Stk_ADSR.h"
 #include "BiQuad.h"
-#include "Noise.h"
+#include "Stk_Noise.h"
 
 namespace stk {
 

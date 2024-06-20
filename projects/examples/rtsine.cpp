@@ -1,6 +1,6 @@
 // rtsine.cpp STK tutorial program
 
-#include "SineWave.h"
+#include "Stk_SineWave.h"
 #include "RtWvOut.h"
 #include <cstdlib>
 

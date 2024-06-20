@@ -5,8 +5,8 @@
 #include "DelayA.h"
 #include "BiQuad.h"
 #include "PoleZero.h"
-#include "ADSR.h"
-#include "SineWave.h"
+#include "Stk_ADSR.h"
+#include "Stk_SineWave.h"
 
 namespace stk {
 

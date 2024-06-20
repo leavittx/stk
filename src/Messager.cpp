@@ -1,3 +1,4 @@
+#if HAS_EXTRA_CLASSES
 /***************************************************/
 /*! \class Messager
     \brief STK input control message parser.
@@ -433,3 +434,4 @@ THREAD_RETURN THREAD_TYPE socketHandler(void *ptr)
 
 } // stk namespace
 
+#endif

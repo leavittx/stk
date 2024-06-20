@@ -2,8 +2,8 @@
 #define STK_MODULATE_H
 
 #include "Generator.h"
-#include "SineWave.h"
-#include "Noise.h"
+#include "Stk_SineWave.h"
+#include "Stk_Noise.h"
 #include "OnePole.h"
 
 namespace stk {

@@ -4,8 +4,8 @@
 #include "Instrmnt.h"
 #include "Sphere.h"
 #include "Vector3D.h"
-#include "Noise.h"
-#include "SineWave.h"
+#include "Stk_Noise.h"
+#include "Stk_SineWave.h"
 #include "OnePole.h"
 #include "Envelope.h"
 

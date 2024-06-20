@@ -1,3 +1,4 @@
+#if HAS_EXTRA_CLASSES
 /***************************************************/
 /*! \class InetWvOut
     \brief STK internet streaming output class.
@@ -229,3 +230,4 @@ void InetWvOut :: tick( const StkFrames& frames )
 }
 
 } // stk namespace
+#endif

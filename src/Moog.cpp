@@ -31,7 +31,7 @@ Moog :: Moog( void )
   loops_.push_back ( new FileLoop( (Stk::rawwavePath() + "sinewave.raw").c_str(), true ) ); // vibrato
   loops_[1]->setFrequency( 6.122 );
 
-  filters_[0].setTargets( 0.0, 0.7 );
+  filters_[0].setTargets( 0.0, 0.7 ); 
   filters_[1].setTargets( 0.0, 0.7 );
 
   adsr_.setAllTimes( 0.001, 1.5, 0.6, 0.250 );

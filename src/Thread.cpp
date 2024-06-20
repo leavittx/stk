@@ -1,3 +1,4 @@
+#if 0
 /***************************************************/
 /*! \class Thread
     \brief STK thread class.
@@ -104,3 +105,4 @@ void Thread :: testCancel(void)
 }
 
 } // stk namespace
+#endif

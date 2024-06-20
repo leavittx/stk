@@ -1,3 +1,4 @@
+#if 0
 /***************************************************/
 /*! \class Socket
     \brief STK internet socket abstract base class.
@@ -76,3 +77,4 @@ int Socket :: readBuffer(int socket, void *buffer, long bufferSize, int flags )
 }
 
 } // stk namespace
+#endif

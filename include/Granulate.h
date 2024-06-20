@@ -4,7 +4,7 @@
 #include <vector>
 #include "Generator.h"
 #include "Envelope.h"
-#include "Noise.h"
+#include "Stk_Noise.h"
 
 namespace stk {
 

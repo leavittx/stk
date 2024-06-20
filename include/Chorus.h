@@ -3,7 +3,7 @@
 
 #include "Effect.h"
 #include "DelayL.h"
-#include "SineWave.h"
+#include "Stk_SineWave.h"
 
 namespace stk {
 

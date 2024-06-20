@@ -4,9 +4,9 @@
 #include "Instrmnt.h"
 #include "Iir.h"
 #include "DelayL.h"
-#include "Noise.h"
-#include "SineWave.h"
-#include "ADSR.h"
+#include "Stk_Noise.h"
+#include "Stk_SineWave.h"
+#include "Stk_ADSR.h"
 
 namespace stk {
 

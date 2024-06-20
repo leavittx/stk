@@ -12,7 +12,7 @@
 */
 /******************************************/
 
-#include "SineWave.h"
+#include "Stk_SineWave.h"
 #include "FileWvOut.h"
 #include <cstdlib>
 

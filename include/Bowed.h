@@ -6,8 +6,8 @@
 #include "BowTable.h"
 #include "OnePole.h"
 #include "BiQuad.h"
-#include "SineWave.h"
-#include "ADSR.h"
+#include "Stk_SineWave.h"
+#include "Stk_ADSR.h"
 
 namespace stk {
 

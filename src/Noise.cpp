@@ -10,7 +10,7 @@
 */
 /***************************************************/
 
-#include "Noise.h"
+#include "Stk_Noise.h"
 #include <time.h>
 
 namespace stk {

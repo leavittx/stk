@@ -5,7 +5,7 @@
 #include "DelayL.h"
 #include "DelayA.h"
 #include "OneZero.h"
-#include "Noise.h"
+#include "Stk_Noise.h"
 #include "BiQuad.h"
 
 namespace stk {

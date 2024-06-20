@@ -2,11 +2,11 @@
 #define STK_SIMPLE_H
 
 #include "Instrmnt.h"
-#include "ADSR.h"
+#include "Stk_ADSR.h"
 #include "FileLoop.h"
 #include "OnePole.h"
 #include "BiQuad.h"
-#include "Noise.h"
+#include "Stk_Noise.h"
 
 namespace stk {
 

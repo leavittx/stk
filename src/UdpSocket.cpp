@@ -1,3 +1,4 @@
+#if HAS_EXTRA_CLASSES
 /***************************************************/
 /*! \class UdpSocket
     \brief STK UDP socket server/client class.
@@ -108,3 +109,5 @@ int UdpSocket :: writeBufferTo( const void *buffer, long bufferSize, int port, s
 }
 
 } // stk namespace
+
+#endif

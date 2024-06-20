@@ -1,3 +1,4 @@
+#if 1
 /***************************************************/
 /*! \class RtWvOut
     \brief STK realtime audio (blocking) output class.
@@ -215,3 +216,5 @@ void RtWvOut :: tick( const StkFrames& frames )
 }
 
 } // stk namespace
+
+#endif

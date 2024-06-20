@@ -4,7 +4,7 @@
 #include "Instrmnt.h"
 #include "Envelope.h"
 #include "FileLoop.h"
-#include "SineWave.h"
+#include "Stk_SineWave.h"
 #include "BiQuad.h"
 #include "OnePole.h"
 

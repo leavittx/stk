@@ -4,8 +4,8 @@
 #include "Instrmnt.h"
 #include "DelayA.h"
 #include "OneZero.h"
-#include "Noise.h"
-#include "ADSR.h"
+#include "Stk_Noise.h"
+#include "Stk_ADSR.h"
 #include <cmath>
 
 namespace stk {

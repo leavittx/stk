@@ -1,3 +1,4 @@
+#if 0
 /***************************************************/
 /*! \class TcpServer
     \brief STK TCP socket server class.
@@ -97,3 +98,4 @@ int TcpServer :: readBuffer(void *buffer, long bufferSize, int flags )
 }
 
 } // stk namespace
+#endif

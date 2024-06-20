@@ -2,9 +2,9 @@
 #define STK_FM_H
 
 #include "Instrmnt.h"
-#include "ADSR.h"
+#include "Stk_ADSR.h"
 #include "FileLoop.h"
-#include "SineWave.h"
+#include "Stk_SineWave.h"
 #include "TwoZero.h"
 
 namespace stk {

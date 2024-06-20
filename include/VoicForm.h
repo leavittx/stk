@@ -3,7 +3,7 @@
 
 #include "Instrmnt.h"
 #include "Envelope.h"
-#include "Noise.h"
+#include "Stk_Noise.h"
 #include "SingWave.h"
 #include "FormSwep.h"
 #include "OnePole.h"

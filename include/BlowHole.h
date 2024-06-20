@@ -7,8 +7,8 @@
 #include "OneZero.h"
 #include "PoleZero.h"
 #include "Envelope.h"
-#include "Noise.h"
-#include "SineWave.h"
+#include "Stk_Noise.h"
+#include "Stk_SineWave.h"
 
 namespace stk {
 

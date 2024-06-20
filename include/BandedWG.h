@@ -4,7 +4,7 @@
 #include "Instrmnt.h"
 #include "DelayL.h"
 #include "BowTable.h"
-#include "ADSR.h"
+#include "Stk_ADSR.h"
 #include "BiQuad.h"
 
 namespace stk {

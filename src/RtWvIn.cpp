@@ -1,3 +1,4 @@
+#if 1
 /***************************************************/
 /*! \class RtWvIn
     \brief STK realtime audio (blocking) input class.
@@ -206,3 +207,4 @@ StkFrames& RtWvIn :: tick( StkFrames& frames, unsigned int channel )
 }
 
 } // stk namespace
+#endif

@@ -1,3 +1,4 @@
+#if HAS_EXTRA_CLASSES
 /***************************************************/
 /*! \class InetWvIn
     \brief STK internet streaming input class.
@@ -318,3 +319,4 @@ StkFrames& InetWvIn :: tick( StkFrames& frames, unsigned int channel )
 }
 
 } // stk namespace
+#endif

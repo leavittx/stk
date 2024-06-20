@@ -5,9 +5,9 @@
 #include "JetTable.h"
 #include "BiQuad.h"
 #include "PoleZero.h"
-#include "Noise.h"
-#include "ADSR.h"
-#include "SineWave.h"
+#include "Stk_Noise.h"
+#include "Stk_ADSR.h"
+#include "Stk_SineWave.h"
 
 namespace stk {
 

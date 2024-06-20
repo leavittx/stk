@@ -1,6 +1,6 @@
 // crtsine.cpp STK tutorial program
 
-#include "SineWave.h"
+#include "Stk_SineWave.h"
 #include "RtAudio.h"
 using namespace stk;
 
