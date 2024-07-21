@@ -42,7 +42,7 @@ unsigned char genMIDIMap[128] =
 				  
 char waveNames[DRUM_NUMWAVES][16] =
   { 
-    "dope.raw",
+    //"dope.raw",
     "bassdrum.raw",
     "snardrum.raw",
     "tomlowdr.raw",

@@ -24,7 +24,7 @@ namespace stk {
 */
 /***************************************************/
 
-const int DRUM_NUMWAVES = 11;
+const int DRUM_NUMWAVES = 10;
 const int DRUM_POLYPHONY = 4;
 
 class Drummer : public Instrmnt
