@@ -95,7 +95,7 @@ ASIOError ASIOInit(ASIODriverInfo *info)
 
 ASIOError ASIOExit(void)
 {
-	if(theAsioDriver)
+	if(theAsioDriver && asioDrivers)
 	{
 #if WINDOWS
 		asioDrivers->removeCurrentDriver();
